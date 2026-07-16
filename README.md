@@ -1,2 +1,3 @@
 # Agent
 git fetch origin git checkout 1-new-is:open assignee:${user} repo:${owner}/${Build a Next.js random number generator app that gates access behind a Solana payment. Users connect their wallet and pay a small fee (e.g. 0.1 SOL), and once the payment is verified on the backend they can generate a random number between 0 and 1000. Use the skill at https://raw.githubusercontent.com/pump-fun/pump-fun-skills/refs/heads/main/tokenized-agents/SKILL.md to build the payment transaction, handle wallet signing, and verify the invoice server-side before granting access.
+Gi8V9t25YdENsm1naQoswpmDK72W1hNfgMrQXMK8Dnio
